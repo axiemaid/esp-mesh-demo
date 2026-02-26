@@ -1,0 +1,16 @@
+{
+  "serialPort": "/dev/cu.usbserial-2120",
+  "baudRate": 115200,
+  "nodes": {
+    "00:70:07:0E:6D:14": {
+      "name": "Node B",
+      "role": "relay",
+      "bsv_address": "1Lo12bsDjjJG4j34j8ubf6yKFGYPxQiSvF"
+    },
+    "00:70:07:0D:73:18": {
+      "name": "Node A",
+      "role": "gateway",
+      "bsv_address": null
+    }
+  }
+}
